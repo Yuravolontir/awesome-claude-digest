@@ -4,6 +4,11 @@
 > Updated every day by a bot. Follow the digest on Telegram: [@claude_digest_daily](https://t.me/claude_digest_daily)
 
 <!-- DIGEST -->
+## 📅 2026-07-14
+
+- **[Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting](https://github.com/thephw/claude-meseeks)** — Because every developer needs a virtual helper who sounds like an existential crisis waiting to happen while they debug.
+- **[How Claude's values vary by model and language](https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5)** — Understanding Claude's values by model and language is like tuning a radio — clearer signals lead to fewer static-filled misunderstandings.
+
 
 ## 📅 2026-07-13
 
