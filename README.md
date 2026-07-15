@@ -4,6 +4,12 @@
 > Updated every day by a bot. Follow the digest on Telegram: [@claude_digest_daily](https://t.me/claude_digest_daily)
 
 <!-- DIGEST -->
+## 📅 2026-07-15
+
+- **[William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless)** ⭐620 — Manage your cloud like a seasoned SRE, because even AI agents need a well-ordered Kubernetes playground.
+- **[GreyGunG/grokbuild-proxy](https://github.com/GreyGunG/grokbuild-proxy)** ⭐142 — A self-hosted proxy to help your Grok Build play nice with Claude and OpenAI — because compatibility is key in the AI dating scene.
+- **[pueschel88/Tradingview-MCP](https://github.com/pueschel88/Tradingview-MCP)** ⭐132 — Control Tradingview Desktop with Claude Code through DevTools — finally, your charts can respond as quickly as your trades.
+
 ## 📅 2026-07-14
 
 - **[Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting](https://github.com/thephw/claude-meseeks)** — Because every developer needs a virtual helper who sounds like an existential crisis waiting to happen while they debug.
