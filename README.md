@@ -4,6 +4,12 @@
 > Updated every day by a bot. Follow the digest on Telegram: [@claude_digest_daily](https://t.me/claude_digest_daily)
 
 <!-- DIGEST -->
+## 📅 2026-07-16
+
+- **[vshulcz/deja-vu](https://github.com/vshulcz/deja-vu)** ⭐231 — If memory is a programmer's best friend, this binary is like a lifelong companion, managing secrets and syncing session logs without the baggage.
+- **[sandbaseai/managed-agents](https://github.com/sandbaseai/managed-agents)** ⭐136 — Why juggle agents when you can have them run alongside your favorite models in a user-friendly chapel of command?
+- **[RongleCat/grok-go](https://github.com/RongleCat/grok-go)** ⭐131 — Need to manage multiple Codex accounts? This local Grok gateway is like a bouncer for your API access, and it won't forget anyone.
+
 ## 📅 2026-07-15
 
 - **[William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless)** ⭐620 — Manage your cloud like a seasoned SRE, because even AI agents need a well-ordered Kubernetes playground.
