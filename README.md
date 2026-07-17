@@ -4,6 +4,13 @@
 > Updated every day by a bot. Follow the digest on Telegram: [@claude_digest_daily](https://t.me/claude_digest_daily)
 
 <!-- DIGEST -->
+## 📅 2026-07-17
+
+- **[Claude Code v2.1.212](https://github.com/anthropics/claude-code/releases/tag/v2.1.212)** — Claude Code v2.1.212 is like a preferred parking spot for your thoughts, giving you new spaces to create while keeping your workflow intact.
+- **[Encod3d-Sec/ClaudeBrain](https://github.com/Encod3d-Sec/ClaudeBrain)** ⭐180 — Karpathy's LLM gives developers a sneak peek into how Claude thinks about penetration testing; just be ready for the unexpected bugs.
+- **[alexafinode/claude-arbitrage-bot](https://github.com/alexafinode/claude-arbitrage-bot)** ⭐164 — This arbitrage bot automates Ethereum trading like clockwork, perfect for developers who dream of a day when their code works as hard as they do.
+- **[JimLiu/baocut](https://github.com/JimLiu/baocut)** ⭐137 — Transform your audio and video tasks with this open-source Agent Skill; it makes multimedia editing as easy as a chat with Claude.
+
 ## 📅 2026-07-16
 
 - **[vshulcz/deja-vu](https://github.com/vshulcz/deja-vu)** ⭐231 — If memory is a programmer's best friend, this binary is like a lifelong companion, managing secrets and syncing session logs without the baggage.
