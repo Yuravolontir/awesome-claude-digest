@@ -4,6 +4,13 @@
 > Updated every day by a bot. Follow the digest on Telegram: [@claude_digest_daily](https://t.me/claude_digest_daily)
 
 <!-- DIGEST -->
+## 📅 2026-07-18
+
+- **[Claude Code v2.1.214](https://github.com/anthropics/claude-code/releases/tag/v2.1.214)** — Claude Code v2.1.214 is fixing bugs so you can return to arguing about code clarity instead of security mishaps.
+- **[KlaatAI/klaatcode](https://github.com/KlaatAI/klaatcode)** ⭐108 — KlaatAI's terminal agent ensures your AI choices are as smart as your coding, while also saving you a bit of cash.
+- **[JesusRS1/stock-trade-finance-api](https://github.com/JesusRS1/stock-trade-finance-api)** ⭐91 — JesusRS1’s stock-trade-api brings market data to your terminal, giving you more than just weekend stock tips from your neighbor.
+- **[dabberman456/finance-mcp-app](https://github.com/dabberman456/finance-mcp-app)** ⭐91 — Dabberman456’s finance app helps you manage money without the stress of spreadsheets, perfect for the ‘I’ll do it tomorrow’ crowd.
+
 ## 📅 2026-07-17
 
 - **[Claude Code v2.1.212](https://github.com/anthropics/claude-code/releases/tag/v2.1.212)** — Claude Code v2.1.212 is like a preferred parking spot for your thoughts, giving you new spaces to create while keeping your workflow intact.
