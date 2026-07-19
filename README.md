@@ -4,6 +4,12 @@
 > Updated every day by a bot. Follow the digest on Telegram: [@claude_digest_daily](https://t.me/claude_digest_daily)
 
 <!-- DIGEST -->
+## 📅 2026-07-19
+
+- **[PromptPartner/agentsmith](https://github.com/PromptPartner/agentsmith)** ⭐308 — This model-agnostic toolkit lets devs give all their AI agents a uniform operating procedure, ensuring they play nicely together on the same team.
+- **[RinDig/icm-architect](https://github.com/RinDig/icm-architect)** ⭐87 — Turn your messy processes into neat ICM workspaces, transforming chaos into order, or just reorganizing that one folder that always gets cluttered.
+- **[sorryhumans/clawdmeter-plus](https://github.com/sorryhumans/clawdmeter-plus)** ⭐83 — Nothing like a decorative AMOLED display to remind you of your Claude Code’s performance while you ponder its existential crisis with a daily greeting.
+
 ## 📅 2026-07-18
 
 - **[Claude Code v2.1.214](https://github.com/anthropics/claude-code/releases/tag/v2.1.214)** — Claude Code v2.1.214 is fixing bugs so you can return to arguing about code clarity instead of security mishaps.
