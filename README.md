@@ -4,6 +4,12 @@
 > Updated every day by a bot. Follow the digest on Telegram: [@claude_digest_daily](https://t.me/claude_digest_daily)
 
 <!-- DIGEST -->
+## 📅 2026-07-20
+
+- **[KinetiNode/claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean)** ⭐156 — Turns the Claude Fable 5 prompt into nice Markdown—ideal for devs who prefer their code like their coffee: streamlined and efficient.
+- **[yc-duan/fastctx](https://github.com/yc-duan/fastctx)** ⭐105 — Fastctx gives developers a reason to care about context efficiency—one less memory leak, one more reason to avoid eye-rolling.
+- **[marketcaper/mcp](https://github.com/marketcaper/mcp)** ⭐87 — Perfect for quant fiends, MCP serves up finance data and heatmaps—because who doesn't want their AI to have a stock market side hustle?
+
 ## 📅 2026-07-19
 
 - **[PromptPartner/agentsmith](https://github.com/PromptPartner/agentsmith)** ⭐308 — This model-agnostic toolkit lets devs give all their AI agents a uniform operating procedure, ensuring they play nicely together on the same team.
